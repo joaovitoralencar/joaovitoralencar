@@ -2,7 +2,7 @@
 
 
 - 🔭 Adoro programação
-- 🌱 Estudante de Ensino Médio, com curso técnico integrad de informática para Internet
+- 🌱 Estudante de Ensino Médio, com curso técnico integrado de informática para Internet
 
  <div align = "centro">
   <a href="https://github.com/joaovitoralencar">
